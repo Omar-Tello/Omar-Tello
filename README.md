@@ -29,7 +29,6 @@
   <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-<!-- <p align="center"><img src="https://media.giphy.com/media/d88hjzGrmHBWHfmtjb/giphy.gif" alt="Synthwave" height="370" width="800"></p> -->
-<!-- <img src="https://pickywallpapers.com/img/2018/2/firewatch-4k-widescreen-wallpaper-412-419-hd-wallpapers.jpg"/> -->
+
 
 
