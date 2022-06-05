@@ -1,5 +1,5 @@
 <h1> 
-<img src = "" width = "10px" alt = "hola "> Hi, I'm Omar Tello! 
+<img src = "" width = "10px" alt = ""> Hi, I'm Omar Tello! 
 <img align='right' src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="230">
 </h1>
 <p><em>♨️ Computer Engineer </p>
