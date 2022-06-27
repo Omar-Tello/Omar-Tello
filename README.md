@@ -1,5 +1,5 @@
 <h1> 
- <a href="http://omartello.ml"><img src = "" width = "10px" alt = ""> Hi, I'm Omar Tello! </a>
+ <a href="https://www.facebook.com/omartello.developer/"><img src = "" width = "10px" alt = ""> Hi, I'm Omar Tello! </a>
 <img align='right' src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="230">
 </h1>
 <p><em>♨️ Computer Engineer </p>
@@ -9,7 +9,7 @@
 
 --------------------
 
-- 🔭 I’m currently working <a href="http://iot404.ml"> "404" </a> as a Freelance Engineer
+- 🔭 I’m currently working <a href="http://iot404.ml](https://www.facebook.com/IoT.404"> "404" </a> as a Freelance Engineer
 - 🖥️ I’m looking for help with project ideas and open source platform to develop or to update.
 
 --------------------
