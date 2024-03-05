@@ -11,6 +11,7 @@
 
 - 🔭 I’m currently working <a href="https://omar-tello.github.io/iot404"> "404" </a> as a Freelance Engineer
 - 🖥️ I’m looking for help with project ideas and open source platform to develop or to update.
+- 🏫 National Research Center on Development and Application of Adaptive Technologies, where I also perform duties as a Tester.
 
 --------------------
 <p align="center">
@@ -26,7 +27,7 @@
 
 --------------------  
 <p align="center">
-  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
 
 
