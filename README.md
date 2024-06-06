@@ -1,16 +1,17 @@
 <h1> 
- <a href="https://omar-tello.github.io/developerOmartello"><img src = "" width = "10px" alt = ""> Hi, I'm Omar Tello! </a>
+ <a href="https://omar-tello.github.io/developerOmartello"><img src = "" width = "10px" alt = ""> Hi, I'm Omar Tello!  </a>
 <img align='right' src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="230">
 </h1>
 <p><em>♨️ Computer Engineer </p>
 <p><em>♨️ Systems Engineer </p>
 <p><em>📡 Developer Consultant </p>
 <p><em>🧩 Designer </p>
-
+ 
 --------------------
 
 - 🔭 I’m currently working <a href="https://www.instagram.com/cni.data/"> "404 & CNI DATA" </a> as a Freelance Engineer
 - 🖥️ I’m looking for help with project ideas and open source platform to develop or to update.
+- 💼 🎮👾🎲🖥️📡📂📺📱
 
 --------------------
 <p align="center">
