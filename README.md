@@ -3,11 +3,11 @@
 <! -- en proceso href https://omar-tello.github.io/developerOmartello --> 
 <img align='right' src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="230">
 </h1>
-<p><em>♨️ Computer Engineer </p>
-<p><em>♨️ Systems Engineer </p>
-<p><em>📡 Developer Consultant </p>
-<p><em>🧩 Designer </p>
- 
+<p><em>🍵 Computer Engineer </p>
+<p><em>🍵 Systems Engineer </p>
+<p><em>🍵 Developer Consultant </p>
+<p><em>♨️ Designer </p>
+
 --------------------
 
 - 🔭 I’m currently working <a href="https://www.instagram.com/cni.data/"> "404 & CNI DATA" </a> as a Freelance Engineer
