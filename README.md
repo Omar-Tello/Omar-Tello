@@ -1,13 +1,14 @@
 <h1> 
+ <img align='right' src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="230">
  <a href="https://github.com/Omar-Tello"><img src = "" width = "10px" alt = ""> Hi, I'm Omar Tello!  </a>
 <! -- en proceso href https://omar-tello.github.io/developerOmartello --> 
- <img align='right' src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="200">
 </h1>
 
 <p><em>🍵 Computer Engineer </p>
 <p><em>🍵 Systems Engineer </p>
 <p><em>🍵 Developer Consultant </p>
 <p><em>♨️ Designer </p>
+
 
 --------------------
 
