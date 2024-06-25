@@ -3,7 +3,7 @@
 <! -- en proceso href https://omar-tello.github.io/developerOmartello --> 
 </h1>
 
-<img align='right' src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="180">
 <p align='left'><em>🍵 Computer Engineer </p>
 <p align='left'><em>🍵 Systems Engineer </p>
 <p align='left'><em>🍵 Developer Consultant </p>
