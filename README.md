@@ -5,8 +5,8 @@
 
 <img align='right' src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style="max-width:100%; height:auto;">
 
-<p align='left'><em>🍵 Designer </p>
-<p align='left'><em>🍵 Developer Consultant </p>
+<p align='left'><em>🍵 Designer. </p>
+<p align='left'><em>🍵 Developer Consultant. </p>
 <p align='left'><em>🍵 Ing. Informático y de Sistemas. </p>
 <p align='left'><em>🍵 Diplomado en Metodología de la Investigación. </p>
 <p align='left'><em>🍵 Especialista en Transformación Digital y Ciencia de Datos. </p>
@@ -17,7 +17,7 @@
 --------------------
 
 <p align="left">
-<p>🔭 I’m currently working as a Freelance Engineer</p>
+<p>🔭 I’m currently working as a Freelance Engineer.</p>
 <p>📰 I’m looking for help with project ideas and open source platform to develop or to update.</p>
 </p> 
 
@@ -29,7 +29,7 @@
 <p align='center'>
 <em>
 <b>If you need help to find something in the internet or maybe you searching for a missing person,
-</b> I would love to help 
+</b> I would love to help. 
 </em>
 </p>
 <p align="center"><b>💼 🎮👾🎲🖥️📡📂📺📱♨️</b></p>
