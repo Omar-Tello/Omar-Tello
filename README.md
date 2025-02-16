@@ -10,8 +10,8 @@
 <p align='left'><em>🍵 Ing. Informático y de Sistemas. </p>
 <p align='left'><em>🍵 Especialista en Transformación Digital y Ciencia de Datos. </p>
 <p align='left'><em>🍵 Coordinador e Innovador de Tecnologías en el Ámbito Educativo. </p>
-<p align='left'><em>🍵 Magíster en Ingeniería de Sistemas con mención en Gerencia de Sistemas de Información. </p>
 <p align='left'><em>🍵 Desarrollador de Proyectos con Visión Computacional e Inteligencia Artificial. </p>
+<p align='left'><em>🍵 Magíster en Ingeniería de Sistemas con mención en Gerencia de Sistemas de Información. </p>
 
 --------------------
 
