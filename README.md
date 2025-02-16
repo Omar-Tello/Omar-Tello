@@ -1,5 +1,5 @@
 <h1> 
- <a href="https://github.com/Omar-Tello"><img src = "" width = "10px" alt = ""> >_Hi, I'm Omar Tello!  </a>
+ <a href="https://github.com/Omar-Tello"><img src = "" width = "10px" alt = ""> >_ Hi, I'm Omar Tello!  </a>
 <! -- en proceso href https://omar-tello.github.io/developerOmartello --> 
 </h1>
 
