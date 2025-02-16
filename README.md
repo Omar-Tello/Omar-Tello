@@ -15,8 +15,11 @@
 
 --------------------
 
-- 🔭 I’m currently working as a Freelance Engineer
-- 📰 I’m looking for help with project ideas and open source platform to develop or to update.
+<p align="left">
+<p>🔭 I’m currently working as a Freelance Engineer</p>
+<p>📰 I’m looking for help with project ideas and open source platform to develop or to update.</p>
+</p> 
+
 --------------------
 <p align="center">
  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="90"></center>
