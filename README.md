@@ -17,7 +17,7 @@
 --------------------
 
 <p align="left">
-<p>💽 Here’s my resume (or <a href="https://drive.google.com/drive/folders/1WcfHrtCij5jeN5ewi3EpZ4L_6Q6tuH8E"> CV </a>).</p>
+<p>💽 Here’s my resume (or <a href="https://github.com/Omar-Tello"> CV </a>).</p>
 <p>🔭 I’m currently working as a Freelance Engineer.</p>
 <p>💾 I’m looking for help with project ideas and open source platform to develop or to update.</p>
 </p> 
