@@ -8,6 +8,7 @@
 <p align='left'><em>🍵 Designer </p>
 <p align='left'><em>🍵 Developer Consultant </p>
 <p align='left'><em>🍵 Ing. Informático y de Sistemas. </p>
+<p align='left'><em>🍵 Diplomado en Metodología de la Investigación. </p>
 <p align='left'><em>🍵 Especialista en Transformación Digital y Ciencia de Datos. </p>
 <p align='left'><em>🍵 Coordinador e Innovador de Tecnologías en el Ámbito Educativo. </p>
 <p align='left'><em>🍵 Desarrollador de Proyectos con Visión Computacional e Inteligencia Artificial. </p>
