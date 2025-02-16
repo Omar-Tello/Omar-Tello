@@ -1,10 +1,10 @@
 <h1> 
- <a href="https://github.com/Omar-Tello"><img src = "" width = "10px" alt = "">Hi, I'm Omar Tello!  </a>
+ <a href="https://github.com/Omar-Tello"><img src = "" width = "10px" alt = ""> >_Hi, I'm Omar Tello!  </a>
 <! -- en proceso href https://omar-tello.github.io/developerOmartello --> 
 </h1>
 
 <img align='right' src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="180">
-<p align='left'><em> >_ 💼 🎮👾🎲🖥️📡📂📺📱♨️ </p>
+
 <p align='left'><em>🍵 Designer </p>
 <p align='left'><em>🍵 Developer Consultant </p>
 <p align='left'><em>🍵 Ing. Informático y de Sistemas. </p>
@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working as a Freelance Engineer
 - 📰 I’m looking for help with project ideas and open source platform to develop or to update.
-
+- 💼 🎮👾🎲🖥️📡📂📺📱♨️
 --------------------
 <p align="center">
  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="90"></center>
