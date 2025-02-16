@@ -4,16 +4,19 @@
 </h1>
 
 <img align='right' src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="180">
-<p align='left'><em>🍵 Computer Engineer </p>
-<p align='left'><em>🍵 Systems Engineer </p>
+<p align='left'><em> >_ 💼 🎮👾🎲🖥️📡📂📺📱♨️ </p>
+<p align='left'><em>🍵 Designer </p>
 <p align='left'><em>🍵 Developer Consultant </p>
-<p align='left'><em>♨️ Designer </p>
+<p align='left'><em>🍵 Ing. Informático y de Sistemas. </p>
+<p align='left'><em>🍵 Especialista en Transformación Digital y Ciencia de Datos. </p>
+<p align='left'><em>🍵 Coordinador e Innovador de Tecnologías en el Ámbito Educativo. </p>
+<p align='left'><em>🍵 Magíster en Ingeniería de Sistemas con mención en Gerencia de Sistemas de Información. </p>
+<p align='left'><em>🍵 Desarrollador de Proyectos con Visión Computacional e Inteligencia Artificial. </p>
 
 --------------------
 
 - 🔭 I’m currently working as a Freelance Engineer
 - 📰 I’m looking for help with project ideas and open source platform to develop or to update.
-- 💼 🎮👾🎲🖥️📡📂📺📱
 
 --------------------
 <p align="center">
