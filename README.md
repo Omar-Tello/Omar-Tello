@@ -35,7 +35,7 @@ Magíster en Ingeniería de Sistemas (Gerencia de Sistemas de Información)
 <div align="center" style="background:#0d1117; color:#00ff88; padding:20px; border-radius:12px; font-family:monospace; max-width:600px; margin:auto; margin-top:15px;">
   <div style="background:#161b22; padding:12px; border-radius:10px;">
 <pre style="margin:0; color:#c9d1d9; line-height:1.8;">
-💽 Here’s my resume (or <a href="https://github.com/Omar-Tello" style="color:#00ff88;">CV</a>).
+💽 Here’s my resume (or <a href="https://drive.google.com/drive/folders/1zTp4unf0FdZP6uqpv6eiwZkRDT73lC7Y" style="color:#00ff88;">CV</a>).
 🔭 I’m currently working as a Freelance Engineer.
 📑 I’m looking for help with project ideas and open source platforms.
 </pre>
