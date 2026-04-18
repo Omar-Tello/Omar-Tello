@@ -40,9 +40,12 @@ Magíster en Ingeniería de Sistemas (Gerencia de Sistemas de Información)
   <hr style="margin:20px 0; border:0; border-top:1px solid #eee;">
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="90">
 <div align="center" style="background:#0d1117; color:#c9d1d9; padding:20px; border-radius:12px; font-family:monospace; max-width:600px; margin:auto; margin-top:10px;">
+
+  
 <p align="center">
-If you need help to find something on the internet or maybe you are searching for a missing person, I would love to help.
+  <code>> If you need help to find something on the internet or maybe you are searching for a missing person, I would love to help.</code>
 </p>
+
 </div>
   <hr style="margin:20px 0; border:0; border-top:1px solid #eee;">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation">
