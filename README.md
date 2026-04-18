@@ -9,7 +9,7 @@ Omar Tello
   <div style="background:#161b22; padding:12px; border-radius:10px; margin-bottom:10px;">
 <pre>
 > focus
-AI • Data Science • Web Systems • Education Tech
+AI • Education Tech • Data Science • Web Systems 
 </pre>
   </div>
 </div>
