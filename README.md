@@ -17,7 +17,7 @@ AI • Education Tech • Data Science • Web Systems
 <pre>
 > role
 Designer | Developer Consultant | Ing. Informático y de Sistemas | Diplomado en Metodología de la Investigación  
-Diplomado en Alta Especialización en Inteligencia Artificial Avanzada | Especialista en Transformación Digital y Ciencia de Datos  
+Diplomado en Alta Especialización en IA Avanzada | Especialista en Transformación Digital y Ciencia de Datos  
 Desarrollador de Visión Computacional & IA | Coordinador e Innovador de Tecnologías en el Ámbito Educativo  
 Magíster en Ingeniería de Sistemas (Gerencia de Sistemas de Información)
 </pre>
